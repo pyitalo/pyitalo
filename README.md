@@ -21,10 +21,7 @@ Pandas, NumPy (for data processing), Cloud fundamentals (AWS)
 
 <p align="left">
   🎓 <strong>Technical Foundations:</strong><br>
-  Data platforms and analytics fundamentals (Databricks Lakehouse),  
-  Generative AI concepts for data-driven applications (Databricks GenAI),  
-  Machine Learning foundations (IBM ML Professional Certificate),  
-  Algorithms & problem-solving (Stanford University – Algorithms Specialization)
+  Software engineering fundamentals, data structures & algorithms, backend development with Python, database modeling, and applied machine learning concepts.
 </p>
 
 <p align="left">
