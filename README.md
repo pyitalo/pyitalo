@@ -11,7 +11,8 @@ I have hands-on experience developing RESTful APIs, integrating databases, and d
 
 <p align="left">
   💼 <strong>Tools & Technologies:</strong> 
-  Git, Docker, REST APIs, FastAPI, Flask, Pandas, NumPy, Pyspark, scikit-learn, SQL-based databases, Cloud fundamentals (AWS), Data modeling concepts
+  FastAPI, Flask, REST APIs, Git, Docker, SQL databases,
+Pandas, NumPy (for data processing), Cloud fundamentals (AWS)
 </p>
 
 <p align="left">
