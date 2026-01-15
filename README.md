@@ -16,7 +16,7 @@ Pandas, NumPy (for data processing), Cloud fundamentals (AWS)
 </p>
 
 <p align="left">
-  🌱 Currently learning more about enterprise data platforms, distributed systems, and cloud-native architectures.
+  🌱 Currently learning more about backend system design, scalable Python services, and cloud-based application development.
 </p>
 
 <p align="left">
