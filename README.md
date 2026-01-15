@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  👋 Hi, I'm <strong>Italo Santana</strong>, a technology-driven student focused on building scalable, data-oriented solutions.<br>
-  I’m currently studying and deepening my skills in <strong>software engineering, data platforms, and cloud-based systems</strong>, with hands-on experience in end-to-end projects involving data processing, modeling, and system integration.
+  Hi, I'm Italo Santana, a Computer Science student focused on software engineering with Python, building backend services, APIs, and data-driven systems.
+I have hands-on experience developing RESTful APIs, integrating databases, and designing maintainable backend solutions using modern Python tools.
 </p>
 
 <p align="left">
