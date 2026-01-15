@@ -25,7 +25,7 @@ Pandas, NumPy (for data processing), Cloud fundamentals (AWS)
 </p>
 
 <p align="left">
-  💌  Feel free to reach out on LinkedIn or via email — I'm always open to discussing technology, data platforms, and growth opportunities.: ⤵️
+  💌  Feel free to reach out on LinkedIn or via email — I'm always open to discussing technology, software engineering, data platforms, and growth opportunities.: ⤵️
 </p>
 
 <p align="left">
