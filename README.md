@@ -6,7 +6,7 @@ I have hands-on experience developing RESTful APIs, integrating databases, and d
 </p>
 
 <p align="left">
-   🦄 <strong>Languages:</strong> Python, SQL, Java, C++(basic)
+   🦄 <strong>Languages:</strong> Python, SQL, Java (basic), C++ (basic)
 </p>
 
 <p align="left">
